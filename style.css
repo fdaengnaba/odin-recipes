@@ -1,0 +1,37 @@
+body {
+    background-color: aqua;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+.navbar {
+    background-color: blue;
+    overflow: hidden;
+    margin: 0;
+    padding: 10px;
+}
+
+.navbar a {
+    background-color: aliceblue;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.main {
+    width: 700px;
+    margin: 50px auto;
+    margin-top: 10px;;
+    border-style: solid;
+    background-color: aliceblue;
+    padding: 10px;
+}
+
+.main img {
+    display: block;
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
